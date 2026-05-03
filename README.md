@@ -1,4 +1,4 @@
-# Cyber-security-learning
+# web-security-learning
 PortSwigger Labs and Burp Suite Practices  
 Web Security Academy Learning Paths  
 
@@ -14,7 +14,11 @@ Web Security Academy Learning Paths
 - [Completed] OS command injection -apprentice
 - [Completed] SQL injection -apprentice
 
-### SQL injection(Completing) -practitioner
+### SQL injection(Completing) -practitioner -practioner labs:[11/13]
+
+### Path traversal -practioner labs:[5/5]
+
+### Cross-site scripting
 
 ## Tools
 - Burp Suite Community Edition  
