@@ -19,7 +19,8 @@ Web Security Academy Learning Paths
 ### Path traversal(Completed) -practitioner labs:[5/5]
 
 ### Authentication(Completed) -practitioner labs:[10/10]
-### Cross-site scripting
+
+### Cross-site scripting(Completing) -practitioner labs:[0/30]
 
 ## Tools
 - Burp Suite Community Edition  
