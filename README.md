@@ -1,4 +1,4 @@
-# web-security-learning
+# cyber-security-learning
 PortSwigger Labs and Burp Suite Practices  
 Web Security Academy Learning Paths  
 
